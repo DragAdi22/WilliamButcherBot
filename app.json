@@ -1,5 +1,5 @@
 {
-    "name": "WilliamButcherBot",
+    "name": "DragoGFX",
     "description": "Telegram Group Management Bot Written In Python Using Pyrogram.",
     "repository": "https://github.com/TheHamkerCat/WilliamButcherBot",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
@@ -11,7 +11,7 @@
     "telegram-bot",
     "pyrogram"
     ],
-    "repository": "https://github.com/TheHamkerCat/WilliamButcherBot",
+    "repository": "https://github.com/DragAdi22/WilliamButcherBot",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
